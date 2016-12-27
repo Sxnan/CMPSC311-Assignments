@@ -1,0 +1,326 @@
+Floating point arrary:
+float[0] = 14.100
+float[1] = 1.450
+float[2] = 3288.009
+float[3] = 661.263
+float[4] = 0.000
+float[5] = 410.181
+float[6] = 0.988
+float[7] = 91.480
+float[8] = 81.810
+float[9] = 461.108
+float[10] = 7.501
+float[11] = 11.100
+float[12] = 478.478
+float[13] = 6.330
+float[14] = 90.870
+float[15] = 1.480
+float[16] = 1161.198
+float[17] = 18.540
+float[18] = 0.500
+float[19] = 664.353
+
+Integer arrary:
+integer[0] = 14
+integer[1] = 1
+integer[2] = 3288
+integer[3] = 661
+integer[4] = 0
+integer[5] = 410
+integer[6] = 1
+integer[7] = 91
+integer[8] = 82
+integer[9] = 461
+integer[10] = 8
+integer[11] = 11
+integer[12] = 478
+integer[13] = 6
+integer[14] = 91
+integer[15] = 1
+integer[16] = 1161
+integer[17] = 19
+integer[18] = 1
+integer[19] = 664
+
+
+The floating point array has 11 even numbers,and the integer array has 9 even numbers.
+
+Array (3^i) mod 17
+arr[0] = 1
+arr[1] = 3
+arr[2] = 9
+arr[3] = 10
+arr[4] = 13
+arr[5] = 5
+arr[6] = 15
+arr[7] = 11
+arr[8] = 16
+arr[9] = 14
+arr[10] = 8
+arr[11] = 7
+arr[12] = 4
+arr[13] = 12
+arr[14] = 2
+arr[15] = 6
+arr[16] = 1
+arr[17] = 3
+arr[18] = 9
+arr[19] = 10
+arr[20] = 13
+arr[21] = 5
+arr[22] = 15
+arr[23] = 11
+arr[24] = 16
+
+Value 1 is a most frequently occuring value (2 times).
+Value 3 is a most frequently occuring value (2 times).
+Value 5 is a most frequently occuring value (2 times).
+Value 9 is a most frequently occuring value (2 times).
+Value 10 is a most frequently occuring value (2 times).
+Value 11 is a most frequently occuring value (2 times).
+Value 13 is a most frequently occuring value (2 times).
+Value 15 is a most frequently occuring value (2 times).
+Value 16 is a most frequently occuring value (2 times).
+
+Array (3^i) mod 19
+arr[0] = 1
+arr[1] = 3
+arr[2] = 9
+arr[3] = 8
+arr[4] = 5
+arr[5] = 15
+arr[6] = 7
+arr[7] = 2
+arr[8] = 6
+arr[9] = 18
+arr[10] = 16
+arr[11] = 10
+arr[12] = 11
+arr[13] = 14
+arr[14] = 4
+arr[15] = 12
+arr[16] = 17
+arr[17] = 13
+arr[18] = 1
+arr[19] = 3
+arr[20] = 9
+arr[21] = 8
+arr[22] = 5
+arr[23] = 15
+arr[24] = 7
+
+Value 1 is a most frequently occuring value (2 times).
+Value 3 is a most frequently occuring value (2 times).
+Value 5 is a most frequently occuring value (2 times).
+Value 7 is a most frequently occuring value (2 times).
+Value 8 is a most frequently occuring value (2 times).
+Value 9 is a most frequently occuring value (2 times).
+Value 15 is a most frequently occuring value (2 times).
+
+
+
+                    Graph: D = cos(x)*1.0, E = sin(x)*1.0
+       -------------------------------------------------------------
+  3.0 |                              |                              |
+  2.9 |                              |                              |
+  2.8 |                              |                              |
+  2.7 |                              |                              |
+  2.6 |                              |                              |
+  2.5 |                              |                              |
+  2.4 |                              |                              |
+  2.3 |                              |                              |
+  2.2 |                              |                              |
+  2.1 |                              |                              |
+  2.0 |                              |                              |
+  1.9 |                              |                              |
+  1.8 |                              |                              |
+  1.7 |                              |                              |
+  1.6 |                              |                              |
+  1.5 |                              |                              |
+  1.4 |                              |                              |
+  1.3 |                              |                              |
+  1.2 |                              |                              |
+  1.1 |                              |                              |
+  1.0 |                           DDDDDDD         EEEEEE            |
+  0.9 |                         DD   |   DD     EE      EEE         |
+  0.8 |                       DD     |     DD EE           E        |
+  0.7 |                      D       |       E              EE      |
+  0.6 |                     D        |     EE D               E     |
+  0.5 |                   DD         |    E    DD              E    |
+  0.4 |                  D           |   E       D              E   |
+  0.3 |                 D            |  E         D              E  |
+  0.2 |                D             | E           D              E |
+  0.1 |               D              |E             D              E|
+  0.0 |--------------D---------------E---------------D--------------|
+ -0.1 |E            D               E|                D             |
+ -0.2 | E          D               E |                 D            |
+ -0.3 |  E        D               E  |                  D           |
+ -0.4 |   E      D               E   |                   D          |
+ -0.5 |    E    D               E    |                    D         |
+ -0.6 |     E  D              EE     |                     D        |
+ -0.7 |      EE              E       |                      DD      |
+ -0.8 |     D  E           EE        |                        D     |
+ -0.9 |  DDD    EEE      EE          |                         DDD  |
+ -1.0 |DD          EEEEEE            |                            DD|
+ -1.1 |                              |                              |
+ -1.2 |                              |                              |
+ -1.3 |                              |                              |
+ -1.4 |                              |                              |
+ -1.5 |                              |                              |
+ -1.6 |                              |                              |
+ -1.7 |                              |                              |
+ -1.8 |                              |                              |
+ -1.9 |                              |                              |
+ -2.0 |                              |                              |
+ -2.1 |                              |                              |
+ -2.2 |                              |                              |
+ -2.3 |                              |                              |
+ -2.4 |                              |                              |
+ -2.5 |                              |                              |
+ -2.6 |                              |                              |
+ -2.7 |                              |                              |
+ -2.8 |                              |                              |
+ -2.9 |                              |                              |
+ -3.0 |                              |                              |
+
+      -3        -2        -1        0          1         2         3         
+       0123456789012345678901234567890123456789012345678901234567890
+       -------------------------------------------------------------
+
+
+                    Graph: D = cos(x)*1.3, E = sin(x)*2.3
+       -------------------------------------------------------------
+  3.0 |                              |                              |
+  2.9 |                              |                              |
+  2.8 |                              |                              |
+  2.7 |                              |                              |
+  2.6 |                              |                              |
+  2.5 |                              |                              |
+  2.4 |                              |                              |
+  2.3 |                              |             EEEE             |
+  2.2 |                              |            E    EE           |
+  2.1 |                              |           E       E          |
+  2.0 |                              |          E         E         |
+  1.9 |                              |         E           E        |
+  1.8 |                              |        E                     |
+  1.7 |                              |                      E       |
+  1.6 |                              |       E               E      |
+  1.5 |                              |      E                       |
+  1.4 |                              |                        E     |
+  1.3 |                            DDDDD   E                        |
+  1.2 |                          DD  |  DD                     E    |
+  1.1 |                        DD    |    ED                        |
+  1.0 |                       D      |      D                   E   |
+  0.9 |                      D       |   E   D                      |
+  0.8 |                     D        |        D                  E  |
+  0.7 |                    D         |  E      D                    |
+  0.6 |                   D          |          D                 E |
+  0.5 |                  D           | E         D                  |
+  0.4 |                              |                              |
+  0.3 |                 D            |            D                E|
+  0.2 |                D             |E            D                |
+  0.1 |               D              |              D               |
+  0.0 |--------------D---------------E---------------D--------------|
+ -0.1 |                              |                              |
+ -0.2 |             D               E|                D             |
+ -0.3 |E           D                 |                 D            |
+ -0.4 |           D                  |                  D           |
+ -0.5 |          D                 E |                   D          |
+ -0.6 | E                            |                              |
+ -0.7 |         D                 E  |                    D         |
+ -0.8 |  E     D                     |                     D        |
+ -0.9 |       D                  E   |                      D       |
+ -1.0 |   E DD                       |                       DD     |
+ -1.1 |    D                    E    |                         D    |
+ -1.2 |  DDE                         |                          DD  |
+ -1.3 |DD                      E     |                            DD|
+ -1.4 |     E                        |                              |
+ -1.5 |                       E      |                              |
+ -1.6 |      E               E       |                              |
+ -1.7 |       E                      |                              |
+ -1.8 |                     E        |                              |
+ -1.9 |        E           E         |                              |
+ -2.0 |         E         E          |                              |
+ -2.1 |          E       E           |                              |
+ -2.2 |           EE    E            |                              |
+ -2.3 |             EEEE             |                              |
+ -2.4 |                              |                              |
+ -2.5 |                              |                              |
+ -2.6 |                              |                              |
+ -2.7 |                              |                              |
+ -2.8 |                              |                              |
+ -2.9 |                              |                              |
+ -3.0 |                              |                              |
+
+      -3        -2        -1        0          1         2         3         
+       0123456789012345678901234567890123456789012345678901234567890
+       -------------------------------------------------------------
+
+
+                    Graph: D = cos(x)*0.6, E = sin(x)*4.3
+       -------------------------------------------------------------
+  3.0 |                              |                              |
+  2.9 |                              |                       E      |
+  2.8 |                              |      E                       |
+  2.7 |                              |                              |
+  2.6 |                              |                        E     |
+  2.5 |                              |                              |
+  2.4 |                              |     E                        |
+  2.3 |                              |                              |
+  2.2 |                              |                         E    |
+  2.1 |                              |    E                         |
+  2.0 |                              |                              |
+  1.9 |                              |                              |
+  1.8 |                              |                          E   |
+  1.7 |                              |   E                          |
+  1.6 |                              |                              |
+  1.5 |                              |                              |
+  1.4 |                              |                           E  |
+  1.3 |                              |  E                           |
+  1.2 |                              |                              |
+  1.1 |                              |                              |
+  1.0 |                              |                            E |
+  0.9 |                              | E                            |
+  0.8 |                              |                              |
+  0.7 |                              |                              |
+  0.6 |                          DDDDDDDDD                         E|
+  0.5 |                       DDD    |    DDD                       |
+  0.4 |                     DD       |E      DD                     |
+  0.3 |                   DD         |         DD                   |
+  0.2 |                 DD           |           DD                 |
+  0.1 |                D             |             D                |
+  0.0 |--------------DD--------------E--------------DD--------------|
+ -0.1 |            DD                |                DD            |
+ -0.2 |          DD                  |                  DD          |
+ -0.3 |         D                    |                    D         |
+ -0.4 |      DDD                    E|                     DDD      |
+ -0.5 |   DDD                        |                        DDD   |
+ -0.6 |EDD                           |                           DDD|
+ -0.7 |                              |                              |
+ -0.8 |                              |                              |
+ -0.9 |                            E |                              |
+ -1.0 | E                            |                              |
+ -1.1 |                              |                              |
+ -1.2 |                              |                              |
+ -1.3 |                           E  |                              |
+ -1.4 |  E                           |                              |
+ -1.5 |                              |                              |
+ -1.6 |                              |                              |
+ -1.7 |                          E   |                              |
+ -1.8 |   E                          |                              |
+ -1.9 |                              |                              |
+ -2.0 |                              |                              |
+ -2.1 |                         E    |                              |
+ -2.2 |    E                         |                              |
+ -2.3 |                              |                              |
+ -2.4 |                        E     |                              |
+ -2.5 |                              |                              |
+ -2.6 |     E                        |                              |
+ -2.7 |                              |                              |
+ -2.8 |                       E      |                              |
+ -2.9 |      E                       |                              |
+ -3.0 |                              |                              |
+
+      -3        -2        -1        0          1         2         3         
+       0123456789012345678901234567890123456789012345678901234567890
+       -------------------------------------------------------------
